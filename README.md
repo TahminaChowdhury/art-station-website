@@ -4,9 +4,11 @@ This project was bootstrapped with [Create React App](https://serene-villani-acd
 
 # About this project
 
--This website is about Art.Art gives meaning to our lives and helps us understand our world. It is an essential part of our culture because it allows us to have a deeper understanding of our emotions.
+-This website is about Art.Art gives meaning to our lives and helps us understand our world.
 
+-It's a online community website for artists.Here you can see some famous artits wrok around the world.
 
+-This is one of the best online community for artists.
 
 <!-- ## Available Scripts
 
