@@ -10,11 +10,12 @@ const Total = (props) => {
         total = total + artist.salary;
         artistName= artistName + artist.name;
     }
+    
     return (
         <div className="text-white text-center pt-2">
             <h3 className="fw-bold">Artists Added: {props.artist.length}</h3>
             <h4 className="fw-bold">Total Cost: $ {total}</h4>
-            <h5>{artistName}</h5>
+            <h4>{artistName}</h4>
             <button className="btn btn-outline-primary w-25">Buy</button>
         </div>
     );

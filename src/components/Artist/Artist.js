@@ -1,7 +1,8 @@
 import React from 'react';
+// font awesome
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faShoppingCart} from '@fortawesome/free-solid-svg-icons'
 import './Artist.css'
-// import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-// import { faShoppingCart } from '@fortawesome/free-solid-svg-icons'
 
 const Artist = (props) => {
     const {img, name, born, knownFor, salary} =props.artist;
@@ -15,8 +16,10 @@ const Artist = (props) => {
                 <p>Name: {name}</p>
                 <p>Born: {born}</p>
                 <p>Known-For: {knownFor}</p>
-                <p>price:${salary}</p>
-                <button onClick={() =>props.handleAddToCart(props.artist)} className="btn btn-secondary button">Add To Cart</button>
+                <p>Salary:${salary}</p>
+                <button onClick={() =>props.handleAddToCart(props.artist)} className="btn btn-secondary button"><FontAwesomeIcon icon={faShoppingCart} /> Add To Cart</button>
+                <span></span>
+                <span></span>
                 </div>
                 </div>
         </div>

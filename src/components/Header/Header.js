@@ -14,7 +14,7 @@ const Header = () => {
             </nav>
            <div className="w-50 text-center text-light  py-5 my-5 mx-auto">
                <h1 className="heading text-uppercase">Art is an irreplaceable way of understanding and expressing the world</h1>
-               <h3>Total Paintings: 10000</h3>
+               <h3>Total Budget: 10000</h3>
            </div>
         </div>
     );

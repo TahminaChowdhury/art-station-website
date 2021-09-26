@@ -70,6 +70,30 @@
       "country": "Los Angeles",
       "knownFor": "Geometric paintings",
       "salary": 18000
+    },
+    {
+      "img": "https://i.ibb.co/vvsxyFV/liu-wei-hero-880.jpg",
+      "name": "Liu Wei",
+      "born": 1965,
+      "country": "China",
+      "knownFor": "Art",
+      "salary": 28000
+    },
+    {
+      "img": "https://i.ibb.co/yRdQKy4/Cecily-Brown.jpg",
+      "name": "Cecily Brown",
+      "born": 1969,
+      "country": "London",
+      "knownFor": "Paintings",
+      "salary": 22000
+    },
+    {
+      "img": "https://i.ibb.co/4Km3JVC/Cindy-Sherman-cropped.jpg",
+      "name": "Cindy Sherman",
+      "born": 1954,
+      "country": "America",
+      "knownFor": "Paintings",
+      "salary": 35000
     }
   ]
   

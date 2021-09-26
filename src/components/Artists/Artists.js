@@ -8,7 +8,6 @@ import Total from '../Total/Total';
 const Artists = () => {
     const [artists, setArtists] = useState([]);
     const [artist, setArtist] =useState([])
-    console.log(artist)
     useEffect(() => {
     fetch('artists.JSON')
     .then(res => res.json())
@@ -26,6 +25,7 @@ const Artists = () => {
                     <div className="row">
                     {
                     artists.map(artist => <Artist 
+                        key={artist.name}
                         artist ={artist}
                         handleAddToCart={handleAddToCart}
                         ></Artist>)
