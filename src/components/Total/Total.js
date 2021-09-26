@@ -7,7 +7,6 @@ import {faUser} from '@fortawesome/free-solid-svg-icons'
 const Total = (props) => {
     const artists =props.artist;
     let total = 0;
-    let artistName ='';
     for(const artist of artists ){
         total = total + artist.salary;
     }
@@ -19,14 +18,15 @@ const Total = (props) => {
             <ul>
                 {artists.map(artist => {
                     return (
-                        <div className="bg-light rounded-3 mt-4 d-flex align-center" id="name-div">
+                        <div className="bg-light rounded-3 mt-4     
+                            d-flex align-center" id="name-div">
                             <img className="w-25" src={artist.img} alt="" />
                             <h6 className=" text-dark py-2 ms-4">{artist.name}</h6>
                         </div>
                     )
                 })}
             </ul>
-            <button className="btn btn-outline-primary w-25">Buy</button>
+            <button className="btn btn-outline-primary text-white w-25">Buy</button>
         </div>
     );
 };

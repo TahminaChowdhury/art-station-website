@@ -14,6 +14,7 @@ const Artists = () => {
     .then(data => setArtists(data))
     }, []);
     const handleAddToCart = (perosn) => {
+        perosn.isAdded =true;
         const newArtist =[...artist, perosn];
         setArtist(newArtist)
     }
