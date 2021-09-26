@@ -1,5 +1,6 @@
 import React from 'react';
-
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import {faUser} from '@fortawesome/free-solid-svg-icons'
 
 
 const Total = (props) => {
@@ -8,14 +9,14 @@ const Total = (props) => {
     let artistName ='';
     for(const artist of artists ){
         total = total + artist.salary;
-        artistName= artistName + artist.name;
+        artistName= artistName+ ' ' +artist.name;
     }
     
     return (
         <div className="text-white text-center pt-2">
-            <h3 className="fw-bold">Artists Added: {props.artist.length}</h3>
+            <h3 className="fw-bold"><FontAwesomeIcon icon={faUser} /> Artists Added: {props.artist.length}</h3>
             <h4 className="fw-bold">Total Cost: $ {total}</h4>
-            <h4>{artistName}</h4>
+            
             <button className="btn btn-outline-primary w-25">Buy</button>
         </div>
     );

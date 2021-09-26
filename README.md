@@ -1,8 +1,14 @@
-## Art station
+# Art station
 
 This project was bootstrapped with [Create React App](https://serene-villani-acdd00.netlify.app/).
 
-## Available Scripts
+# About this project
+
+-This website is about Art.Art gives meaning to our lives and helps us understand our world. It is an essential part of our culture because it allows us to have a deeper understanding of our emotions.
+
+
+
+<!-- ## Available Scripts
 
 In the project directory, you can run:
 
@@ -67,4 +73,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
