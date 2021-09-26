@@ -1,0 +1,14 @@
+.nav-bar a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 30px;
+    padding: 20px;
+}
+.input{
+    margin-left: 260px;
+}
+.heading{
+    color: gray;
+}

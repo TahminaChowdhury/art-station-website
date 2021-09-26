@@ -1,0 +1,75 @@
+[
+    {
+      "img": "https://i.ibb.co/YN8nfm3/zhou-chunya-photo.jpg",
+      "name": "Zhou Chunya",
+      "born": 1955,
+      "country": "Chengdu China",
+      "knownFor": "Green Dog series",
+      "salary": 15000
+    },
+    {
+      "img": "https://i.ibb.co/XbD8kFF/Njideka-Akunyili-Crosby.jpg",
+      "name": "Njideka Akunyili Crosby",
+      "born": 1983,
+      "country": "Los Angeles California",
+      "knownFor": "Paintings",
+      "salary": 33000
+    },
+    {
+      "img": "https://i.ibb.co/zx4hKyw/Luo-Zhongli.jpg",
+      "name": "Luo Zhongli",
+      "born": 1948,
+      "country": "china",
+      "knownFor": "Paintings",
+      "salary": 20000
+    },
+    {
+      "img": "https://i.ibb.co/Sd9MQHx/Takashi-Murakami.jpg",
+      "name": "Takashi Murakami",
+      "born": 1962,
+      "country": "japan",
+      "knownFor": "Warhol of Japan",
+      "salary": 30000
+    },
+    {
+      "img": "https://i.ibb.co/gz6XCxG/Miquel-Barcelo.jpg",
+      "name": "Miquel Barcelo",
+      "born": 1957,
+      "country": "Paris",
+      "knownFor": "Mixed-media paintings",
+      "salary": 22000
+    },
+    {
+      "img": "https://i.ibb.co/tJX5fyt/George-Condo.jpg",
+      "name": "George Condo",
+      "born": 1957,
+      "country": "New York",
+      "knownFor": "Painting",
+      "salary": 25000
+    },
+    {
+      "img": "https://i.ibb.co/D5bcC89/John-Currin.jpg",
+      "name": "John Currin",
+      "born": 1962,
+      "country": "America",
+      "knownFor": "Painting",
+      "salary": 21000
+    },
+    {
+      "img": "https://i.ibb.co/vBhKSX6/Richard-Prince.jpg",
+      "name": "Richard Prince",
+      "born": 1949,
+      "country": "America",
+      "knownFor": "Paintings",
+      "salary": 28000
+    },
+    {
+      "img": "https://i.ibb.co/nLYRjTZ/Mark-Grotjahn.jpg",
+      "name": "Mark Grotjahn",
+      "born": 1968,
+      "country": "Los Angeles",
+      "knownFor": "Geometric paintings",
+      "salary": 18000
+    }
+  ]
+  
