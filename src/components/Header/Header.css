@@ -8,6 +8,13 @@
 }
 .input{
     margin-left: 260px;
+    border: 1px solid white;
+    color:black;
+}
+.click-button{
+    border: 1px solid white;
+    color: white;
+    background-color: black;
 }
 .heading{
     color: gray;
